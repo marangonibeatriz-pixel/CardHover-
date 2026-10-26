@@ -48,8 +48,8 @@ body > p {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 30px;
-  margin-top: 40px;
+  gap: 60px;
+  margin-top: 50px;
 }
 
 
