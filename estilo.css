@@ -74,7 +74,7 @@ body > p {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: var(--cor);
+  background: blue;
   z-index: 1;
   transform: translateY(80px);
   box-shadow: 0 10px 20px #0003;
